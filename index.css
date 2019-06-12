@@ -1,0 +1,91 @@
+#page-top{
+  background-color : rgb(240,240,240);
+}
+
+.mainpage{
+  text-align : center;
+  background-image: url(book7.jpg);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+
+}
+.intro-text {
+  padding-top : 200px;
+  padding-bottom: 200px;
+  color : black;
+}
+  .intro-lead-in {
+    font-size : 40px;
+    font-style: italic;
+    @include serif-font;
+    color : black;
+}
+  .intro-heading {
+    font-size : 100px;
+    font-weight: 700;
+
+    @include heading-font;
+    color:rgb(241,241,241);
+    text-shadow: 6px 2px 2px rgb(47,47,47);
+    padding-bottom:200px;
+}
+
+.intro-lead-in2 {
+  font-size : 20px;
+  margin-top: 25px;
+  @include serif-font;
+  color : white;
+  font-weight : bold;
+  padding-bottom:100px;
+
+}
+.upgrade{
+  background : rgb(255,217,100);
+  border:5px solid rgb(215,163,0);
+  font-size:20px;
+  color:black;
+}
+.page-section {
+  padding : 100px 0;
+}
+.page-section2 {
+  padding : 100px 0;
+  background-color : white;
+
+}
+.row{
+    padding : 100px 0;
+}
+.section-heading {
+    font-size : 40px;
+    margin-top : 0;
+    margin-bottom : 15px;
+    text-align: center;
+    }
+
+.section-subheading {
+    text-align : center;
+    font-size : 16px;
+    font-weight : 400;
+    font-style : italic;
+    margin-bottom : 75px;
+    text-transform : none;
+    @include serif-font;
+    }
+
+  .cardintext{
+    overflow : hidden;
+  }
+  .cardnext{
+    margin:auto;
+
+    padding-left:30px;
+  }
+  .downsize{
+    height:700px;
+  }
+.go_right{
+padding-left:30px;
+}

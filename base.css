@@ -1,0 +1,42 @@
+.container {
+  width : 100%;
+  padding-right : 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.makesmall{
+  height:90px;
+}
+.center{
+
+   text-align : center;
+   overflow : hidden;
+}
+.common{
+  display: inline-block;
+  margin:0px 40px 40px 0px;
+}
+.navbar{
+  text-decoration: none;
+  margin:0;
+  padding:0;
+    background-color: #333;
+    height:50px;
+}
+.navitems{
+  text-decoration: none;
+  color:white;
+  display:block;
+  border-right:1px solid #bbb;
+  padding:10px 16px;
+
+}
+.navitems:hover{
+  background-color:#111;
+  color: orange;
+  text-decoration :non;
+}
+.submenusize{
+  width : 100%;
+}

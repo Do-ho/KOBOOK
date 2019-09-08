@@ -1,8 +1,10 @@
 # KOBOOK
 
-2019-1학기 Web Programming Team Project 결과물
+2019-1 Web Programming Team Project product
 
-1. 김도호
-2. 김하경
-3. 이동욱
-4. 최상원
+Used book market at KOREATECH
+
+1. Kim Do Ho
+2. Kim Ha Gyeong
+3. Lee Dong Wook
+4. Choi Sang Won
